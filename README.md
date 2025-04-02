@@ -19,9 +19,4 @@ Proyecto CRUD en **Spring Boot** para la gestión de estudiantes, docentes y mat
 
 ## Autor: Aruquipa Coca Jose Andres
 
-Desarrollado por **Miguel Angel Calderon Conde** 🚀
-
-## 🔗 Enlace al Repositorio
-
-[GitHub - Registro Universitario](https://github.com/tu_usuario/registroUniversitario)
 
